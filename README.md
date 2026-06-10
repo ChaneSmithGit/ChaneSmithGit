@@ -1,4 +1,4 @@
-# Hi, I'm Chane Smith👋
+# Hi, I'm Chane Smith. Welcome to my Data Science Poerfolio👋
 Data Analyst passionate about turning raw data into business insights.
 
 ## 🛠️ Tech Stack
