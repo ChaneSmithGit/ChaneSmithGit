@@ -27,3 +27,6 @@ A detail-oriented and business-driven Data Analyst specializing in transforming 
 * **Data Visualization:** Power BI Desktop, Microsoft Excel
 * **Data Manipulation & Querying:** SQL (SQL Server / MySQL), DAX (Data Analysis Expressions)
 * **Portfolio Development:** HTML5, CSS3, GitHub Version Control
+
+## 📫 Let's Connect!
+* **Email:** 2001chanesmith@gmail.com
