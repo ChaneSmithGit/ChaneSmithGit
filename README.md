@@ -13,7 +13,7 @@ A detail-oriented and business-driven Data Analyst specializing in transforming 
 * **Business Case:** Analyzes employee retention, department demographics, and turnover patterns to help management optimize hiring strategies and mitigate workforce flight risks.
 * **Technical Highlights:** Dynamic attrition rate DAX calculations, headcount tracking, and HR trend slicing.
 
-### 🗄️ [COVID-19 Global Data Exploration](https://github.com) (SQL)
+### 🗄️ [COVID-19 Global Data Exploration](https://github.com/ChaneSmithGit/COVID19-Data-Exploration-SQL) (SQL)
 * **Business Case:** Aggregates and transforms millions of rows of global healthcare data to isolate death percentages, infection rates, and regional vaccination progress metrics.
 * **Technical Highlights:** Joins, Common Table Expressions (CTEs), Windows Functions, Aggregate Functions, and Data Type Conversions.
 
