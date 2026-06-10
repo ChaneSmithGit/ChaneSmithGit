@@ -5,7 +5,7 @@ A detail-oriented and business-driven Data Analyst specializing in transforming 
 
 ## 🚀 Featured Analytics Projects
 
-### 📊 [30-Day Plant Turnaround & Shutdown Monitor](https://github.com) (Power BI)
+### 📊 [30-Day Plant Turnaround & Shutdown Monitor]((https://github.com/ChaneSmithGit/Plant-Shutdown-PowerBI)) (Power BI)
 * **Business Case:** Tracks real-time schedule compliance, CapEx financial burn rates, and workplace safety compliance during a month-long scheduled industrial maintenance window.
 * **Technical Highlights:** Advanced DAX logic, text-based conditional status messaging (e.g., `2 Days Delayed`), and large-target master reset bookmarks.
 
