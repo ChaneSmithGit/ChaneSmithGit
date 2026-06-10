@@ -1,4 +1,4 @@
-# Hi, I'm Chane Smith. Welcome to my Data Science Portfolio👋
+# Hi, I'm Chané Smith. Welcome to my Data Science Portfolio👋
 Data Analyst passionate about turning raw data into business insights.
 
 A detail-oriented and business-driven Data Analyst specializing in transforming raw operational, health, human resources, and financial data into clean, interactive, and fully accessible dashboards. 
