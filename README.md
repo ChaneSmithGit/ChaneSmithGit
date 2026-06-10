@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chane Smith👋
+Data Analyst passionate about turning raw data into business insights.
 
-<!--
-**ChaneSmithGit/ChaneSmithGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- **Languages:** SQL, Python
+- **Databases:** PostgreSQL, MySQL, BigQuery
+- **BI Tools:** Tableau, Power BI
 
-Here are some ideas to get you started:
+## 📊 Data Analytics Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗄️ SQL Projects
+- **[E-Commerce Sales Analysis](YOUR_FUTURE_LINK_1)**: Cleaned data and performed cohort analysis using advanced SQL joins.
+- **[Customer Churn Deep Dive](YOUR_FUTURE_LINK_2)**: Used CTEs and Window Functions to analyze user drop-off.
+
+### 🎨 Tableau & Power BI Projects
+- **[Executive Financial Dashboard](YOUR_FUTURE_LINK_3)**: Built an interactive Tableau dashboard to track company ROI.
+- **[Marketing Campaign Performance](YOUR_FUTURE_LINK_4)**: Designed a Power BI dashboard tracking real-time ad spend.
