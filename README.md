@@ -9,7 +9,7 @@ A detail-oriented and business-driven Data Analyst specializing in transforming 
 * **Business Case:** Tracks real-time schedule compliance, CapEx financial burn rates, and workplace safety compliance during a month-long scheduled industrial maintenance window.
 * **Technical Highlights:** Advanced DAX logic, text-based conditional status messaging (e.g., `2 Days Delayed`), and large-target master reset bookmarks.
 
-### 👥 [Corporate Human Resources Analytics Dashboard](https://github.com) (Power BI)
+### 👥 [Corporate Human Resources Analytics Dashboard](https://github.com/ChaneSmithGit/HR-Analytics-PowerBI) (Power BI)
 * **Business Case:** Analyzes employee retention, department demographics, and turnover patterns to help management optimize hiring strategies and mitigate workforce flight risks.
 * **Technical Highlights:** Dynamic attrition rate DAX calculations, headcount tracking, and HR trend slicing.
 
