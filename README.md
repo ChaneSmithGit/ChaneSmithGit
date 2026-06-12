@@ -17,15 +17,13 @@ A detail-oriented and business-driven Data Analyst specializing in transforming 
 * **Business Case:** Aggregates and transforms millions of rows of global healthcare data to isolate death percentages, infection rates, and regional vaccination progress metrics.
 * **Technical Highlights:** Joins, Common Table Expressions (CTEs), Windows Functions, Aggregate Functions, and Data Type Conversions.
 
-### 📈 [COVID-19 Trend & Impact Analysis](https://github.com) (Excel)
-* **Business Case:** Cleans raw global pandemic datasets and builds executive-ready reports tracking localized infection spikes and timeline rollouts.
-* **Technical Highlights:** Power Query data cleaning, advanced VLOOKUP/XLOOKUP modeling, Pivot Tables, and interactive Excel Charts.
-
 ---
 
 ## 🛠️ Technical Toolbox
-* **Data Visualization:** Power BI Desktop, Microsoft Excel
-* **Data Manipulation & Querying:** SQL (SQL Server / MySQL), DAX (Data Analysis Expressions)
+* **Data Visualization & BI: Power BI, Tableau, Excel Pivot Tables & Dashboards
+* **Data Cleaning & ETL: Power Query, Advanced Excel (XLOOKUP, Conditional Formatting)
+* **Data Exploration & Modeling: SQL Server, T-SQL, MySQL
+* **Languages & Core Tech Stack: DAX, Java, HTML5, CSS3
 * **Portfolio Development:** HTML5, CSS3, GitHub Version Control
 
 ## 📫 Let's Connect!
