@@ -31,6 +31,10 @@
 * **Business Case:** Structures, slices, and aggregates millions of rows of global healthcare data to isolate regional infection curves and rolling vaccination trajectories.
 * **Technical Highlights:** Joins, Common Table Expressions (`CTEs`), Window Functions (`OVER/PARTITION BY`), `#TempTables`, and persistent database `VIEWS`.
 
+#### 🎥 [Top UK YouTubers 2024 Engagement Matrix]()
+* **Business Case:** Sourced a raw Kaggle dataset of top British content creators to engineer an engagement benchmarking tool. It isolates performance outliers by mapping total reach against active viewer retention across millions of data points to evaluate true creator marketing efficiency.
+* **Technical Highlights:** Advanced data modeling, dynamic tree-map visualisations, and custom metadata extraction scripts leveraging data analysis expressions (`INFO.VIEW.MEASURES()`) to audit and document pipeline health.
+
 ---
 
 ### 📫 Let's Connect!
