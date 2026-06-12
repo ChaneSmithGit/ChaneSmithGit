@@ -34,6 +34,6 @@
 ---
 
 ### 📫 Let's Connect!
-* **Live Portfolio Website:** [chanesmithgit.github.io](https://github.io)
+* **Live Portfolio Website:** [chanesmithgit.github.io](https://chanesmithgit.github.io/)
 * **Email:** [2001chanesmith@gmail.com](mailto:2001chanesmith@gmail.com)
 * **Phone:** [+27 83 822 9439](tel:+27838229439)
